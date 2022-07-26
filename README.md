@@ -1,4 +1,4 @@
-# financial-trading
+# Financial-Trading
 
 Applying some financial trading indicators to analyze historical data.
 
